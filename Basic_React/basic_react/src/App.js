@@ -1,7 +1,9 @@
 
 function App() {
   return (
-    <h1>hellow world uwais</h1>
+    
+      <h1>Hello World</h1>
+    
   );
 }
 
