@@ -1,4 +1,37 @@
+ye standard react mein components banate time bhi name function ke and all mein Capital se hi rkho and .jsx hi banao for a better practice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
