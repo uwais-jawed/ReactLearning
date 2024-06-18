@@ -7,12 +7,12 @@ import './App.css'
 
 function App() {
   let range = ''
-  const [counter, setCounter] = useState(10)
+  const [counter, setCounter] = useState(0)
   
 
   function addValue(){
      if (counter<20) {
-      setCounter(counter + 1  )
+      setCounter(counter + 1)
      }
   }
 
@@ -22,12 +22,12 @@ function App() {
     }
   }
   function resetValue(){
-    setCounter(counter * 0)
+    setCounter(counter*0)
   }
   return (
 
     <>
-    01  <h1>Uwais Jawed</h1>
+      <h1>Uwais Jawed</h1>
       <h2>Counter value : {counter}</h2>
       
       <button
